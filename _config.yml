@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a student in Math & CS at McGill University."
   location         : "Montreal, Canada"
-  email            : "lemoine123thomas@gmail.com"
+  email            : # "lemoine123thomas@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
